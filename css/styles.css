@@ -12032,7 +12032,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   
 }
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 1200px){
   .footer-header{ 
     box-sizing: content-box;
   }
